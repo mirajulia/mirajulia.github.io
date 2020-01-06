@@ -30,8 +30,28 @@ tr | Transforms specified characters into other characters, e.g. upper case lett
 
 We started getting familiar with Regular Expressions, and how to use them in text processing with the `grep`command. We also learned about formatted text files such as csv and tsv files.
 
-This week things started getting more concrete. I had dabbled in processing text files in command-line before, so I was somewhat familiar with the concepts, but I definitely needed a refresher. The information about character encodings was really interesting, even though it took some time to wrap my head around it.
+This week things started getting more concrete. I had dabbled in processing text files in command-line before, so I was somewhat familiar with the concepts, but I definitely needed a refresher. I remember struggling with Regular Expressions in the past as well. The information about character encodings was really interesting, even though it took some time to wrap my head around it.
 
 ##### Week 4: Advanced Corpus Processing
 
-Following the basics of corpus processing, we learned to pipe simple commands together to complex command pipelines. We also learned the `sed` command, which has a lot of usages in corpus processing.
+Following the basics of corpus processing, we learned to pipe simple commands together to complex command pipelines. We also learned the `sed` command, which has a lot of usages in corpus processing. Now, with pipelines, instead of just sorting the file in alphabetical order or counting the lines, we could for example create a word frecuency list or a lost of word n-grams.
+
+Building pipelines from simple commands and accomplishing more complex tasks was fun. At this point most of the basic commands were  starting to be in muscle memory and exiting text editors didn't require checking the cheatsheet.
+
+##### Week 5: Scripting and Configuration Files
+
+This week we took yet another step and started creating scripts instead of typing the commands out one by one. We also learned about environment variables and configuration files in Unix.
+
+This week was a lot of fun. We created our own .bashrc files to configure our own working environments. We were free to do what we wanted, which got me exploring the possibilities. I wanted to change the colors that directories and files were listed with when running the `ls` command. I quickly found out how to do it, but for some reason I couldn't change the ugly green color of directories.
+
+##### Week 6: Installing and Running Programs
+
+The theme of the week was installing programs, and we definitely did do some installations this week. The dependencies seemed to pile up on eachother, and one program needed another one, one thing needed a library I didn't have and so on. It felt very complicated compared to how installing programs on Windows works. I'm still not sure what happened. However I learned how to use `sudo` to temporarily become the root user in order to install programs, and how to look for software with `apt-get`.
+
+This week also included Python virtual environments and packages, and makefiles. It was good to learn Python virtual environments exist, but I feel it was a little bit disconnected to the rest of the course. When it comes to makefiles, I wish there was a "Makefiles for dummies" tutorial. I felt looking for information on them online was hard, as the examples seemed so different from the things we were working on. Still, I managed to complete the exercises and it felt really goood.
+
+##### Week 7: Version Control and the Final Project
+
+On the last week we learned about version control using Git, and managing the Git repositories in GitHub. We learned to add files in our local repository with `git add`, commit the changes with `git commit` and push the changes to the global repository on GitHub. We also learned to create and use branches for working on different features in the projects.
+
+I feel I grasped the basics of using Git, but it still seems a little tedious. It could be because the whole workflow is still very new to me, and it takes time because of that. I understand the usefulness of Git when there are many people working on the same project, but working alone it seems like a lot of extra work for nothing. I suppose if I had a big project it would be useful, but so far everything I've done has been quite simple. 
