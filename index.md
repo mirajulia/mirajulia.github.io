@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Introduction
+## Introduction <img src="assets/images/mira.jpg" alt="Photo" hspace="20" width="30%" align="right"/>
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a bachelor degree student in Helsinki University. I am majoring in general linguistics and minoring in Asian studies, specializing in Japanese. I am currently working on my BA thesis.
+I am a bachelor degree student in Helsinki University. I am majoring in general linguistics and minoring in Asian studies, specializing in Japanese. I am currently working on my BA thesis.
 
 ## Find me on
 
