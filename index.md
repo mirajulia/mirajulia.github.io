@@ -20,7 +20,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 [Morfologian ja syntaksin jatkokurssi](https://courses.helsinki.fi/fi/KIK-LG202/129823483), fall 2019
 
-[Fonologian jatkokurssi](https://courses.helsinki.fi/fi/KIK-LG202/129823483), fall 2019
+[Fonologian jatkokurssi](https://courses.helsinki.fi/fi/KIK-LG201/129823259), fall 2019
 
 ## Projects
 
