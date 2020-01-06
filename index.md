@@ -16,9 +16,9 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Morfologian ja syntaksin jatkokurssi](https://courses.helsinki.fi/fi/KIK-LG202/129823483), fall 2019
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Fonologian jatkokurssi](https://courses.helsinki.fi/fi/KIK-LG202/129823483), fall 2019
 
 ## Projects
 
