@@ -6,6 +6,8 @@ layout: default
 
 I am a bachelor degree student in Helsinki University. I am majoring in general linguistics and minoring in Asian studies, specializing in Japanese. I am currently working on my BA thesis.
 
+[CV](assets/documents/Mira_CV.pdf)
+
 ## Find me on
 
 [GitHub](https://github.com/mirajulia), [Facebook](https://www.facebook.com/mirajuliak)
