@@ -22,6 +22,10 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
+[cmdline-course](https://github.com/mirajulia/cmdline-course)
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Emacs command list](https://people.ast.cam.ac.uk/~vasily/idl/emacs_commands_list.html)
+
+[Advent of Code](https://adventofcode.com/)
